@@ -1,0 +1,82 @@
+input from legendx-pro
+input from pyrogram
+input from legendhacker_IIN
+input from telethon 
+input from python 
+input from jana,linux,hack,listkn,kiloya,,
+#MODE BY LEGENDHACKER 
+
+
+                                      LEGEND = ( await.LEGENDevent(**Miss-Rose**)
+                                      LEGEND = ( echo""
+                                      legend= await,     
+                                      legend.edit.delete 
+                                      legend.hack.linux.java/ [legendhacker]{{;}}]'
+                                      legend.missrosebot <5121955848>.send.messege
+legend input legendhacker..........................................................................................................................
+legend;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;(legend.deleter'
+legend_string(send))*legend*
+legend()
+.)legend(input = {legend==============)()()()()()()*hacker_invite.
+legendhacker***************************************************************************************************************************
+legendhacker (java,linux,telethon,python,//////?.
+                                      legendhacker
+                                      (document).ready(function() {
+	var Q_PTS 	= 0; 
+	var Q_CAT 	= 1; 
+	var Q_ID  	= 2; 
+	var Q_ANSW	= 3;
+	var Q_IMG	= 4;
+	var Q_BG	= 5;
+	var Q_BG_A	= 6;
+	var Q_EN	= 7;
+	var Q_EN_A	= 8;
+
+	var themesDB = [t01, t02, t03, t04, t05, t06, t07, t08, t09, t10, t11, t12, t13, t14, t15, t16, t17, t18, t19]; 
+
+	var config = {
+		lang: null, 
+		cat: null,
+		themeID: null
+	};
+
+	/* this can be populated ONCE at runtime but is not needed */ /* harcoded changes once per year */
+	var complexThemes = {
+		1: 	{m: 70,  a: 16, b:10, t:1},
+		6: 	{m: 70,  a:  2, b:10, t:0},
+		9: 	{m:  0,  a: 66, b:11, t:0}, 
+		11: {m: 23,  a:  0, b: 0, t:36},
+		16: {m: 20,  a:  0, b:30, t:11},
+		19: {m: 18,  a:  0, b:24, t:12},
+		20: {m: 37,  a:  3, b:3, t:2}
+	};
+
+	var updateQuestionsCount = function(){
+		/* Quirk Theme 9 has only categories A and B, no T and M TODO: properly disable the button*/ 
+		$(".dropdown-menu li:eq(8)").removeClass("disabled");
+		if(config.cat == "m" || config.cat == "t") {
+			$(".dropdown-menu li:eq(8)").addClass("disabled");
+		}
+		$.each(complexThemes, function(key, value){
+				var myValue = value.m;
+				if(config.cat == "a") { myValue += value.a; }
+				if(config.cat == "b") { myValue += value.a + value.t + value.b;	}
+				if(config.cat == "t") { myValue += value.t; }
+				var test = $(".dropdown-menu li a:eq(" + (key - 1) + ")").contents().length
+				var value = $(".dropdown-menu li a:eq(" + (key - 1) + ")").contents()[test-1].nodeValue; 
+				myValue = myValue == 0 ? "00" : myValue; /* TODO */
+				$(".dropdown-menu li a:eq(" + (key - 1) + ")").contents()[test-1].nodeValue = value.replace(value.slice(-3), (myValue + ")") );
+				/*
+				var themeNumber = $(".dropdown-menu li a:eq(" + (key - 1) + ")").text().substring(0, 3)
+				$(".dropdown-menu li a:eq(" + (key - 1) + ")").text(themeNumber + " (0" + myValue + ")");
+        
+        
+        
+        legend input=from.github.com/legend-lx/pythonbot-v9.0.8 .git
+  
+  *legend hacker (le_hack_in_hacker_invite(.),
+  legend hacker  (le_miss_rose_hacker_invite(*),
+  legend hacker  (op);]
+  legend{input(int(str(string_sesoin).
+  legend{legend_hacker
+				*/
